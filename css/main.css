@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.conainer {
+    margin: 0 300px 0 300px;
+}
+
+
+.imgandtext {
+    margin: 0 0 100px 0;
+}
+
+.bio {
+    font-size: 1.5rem;
+    padding: 20;
+    line-height: 40px;
+}
+
+.masonimage {
+    float: left;
+    max-width: 150px;
+    border-style: solid;
+    margin: 10px;
+}
+
+
+
+
+
+.dllist {
+    font-size: 1.15rem;
+    padding: 10px;
+    background-color: rgba(238, 130, 238, 0.219);
+    list-style-type: none;
+    line-height: 30px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+
